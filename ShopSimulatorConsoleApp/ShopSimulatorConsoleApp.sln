@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopSimulatorConsoleApp", "ShopSimulatorConsoleApp\ShopSimulatorConsoleApp.csproj", "{5E7F3721-BDD4-45DE-9CB0-57DD26A4B723}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopSimulator.Core", "ShopSimulator.Core\ShopSimulator.Core.csproj", "{DCA3662F-269E-4307-9568-3E69DBA20AD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E7F3721-BDD4-45DE-9CB0-57DD26A4B723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E7F3721-BDD4-45DE-9CB0-57DD26A4B723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E7F3721-BDD4-45DE-9CB0-57DD26A4B723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E7F3721-BDD4-45DE-9CB0-57DD26A4B723}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCA3662F-269E-4307-9568-3E69DBA20AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA3662F-269E-4307-9568-3E69DBA20AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCA3662F-269E-4307-9568-3E69DBA20AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA3662F-269E-4307-9568-3E69DBA20AD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C73F4C3B-5609-4245-98EF-52EE909F5774}
+	EndGlobalSection
+EndGlobal

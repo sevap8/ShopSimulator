@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ShopSimulator.Core\ShopSimulator.Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Resources\" />
+    <Folder Include="Components\" />
+    <Folder Include="Repositories\" />
+    <Folder Include="Dependency\" />
+    <Folder Include="Data\" />
+  </ItemGroup>
+
+</Project>
